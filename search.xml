@@ -1,35 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Happy New Year</title>
-    <url>/2019/01/01/happy-new-year/</url>
-    <content><![CDATA[<p><img src="/2019/01/01/happy-new-year/fireworks-hires-full.jpg" alt="newyear"></p>
-]]></content>
-      <tags>
-        <tag>fest</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Merry Christmas</title>
-    <url>/2017/12/25/merry-christmas/</url>
-    <content><![CDATA[<p> <img src="/2017/12/25/merry-christmas/christmas.jpg" alt="christmas"></p>
-]]></content>
-      <tags>
-        <tag>fest</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Hello World</title>
-    <url>/2016/12/25/hello-world/</url>
-    <content><![CDATA[<blockquote>
-<p>那时，天下人的口音，言语，都是一样。</p>
-<p>他们往东边迁移的时候，在示拿地遇见一片平原，就住在那里。</p>
-<p>他们彼此商量说，来吧，我们要作砖，把砖烧透了。他们就拿砖当石头，又拿石漆当灰泥。</p>
-<p>他们说，来吧，我们要建造一座城和一座塔，塔顶通天，为要传扬我们的名，免得我们分散在全地上。</p>
-</blockquote>
-]]></content>
-      <tags>
-        <tag>blog</tag>
-      </tags>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Merry Christmas</title>
+      <link href="/2017/12/25/merry-christmas/"/>
+      <url>/2017/12/25/merry-christmas/</url>
+      
+        <content type="html"><![CDATA[<p> <img src="/2017/12/25/merry-christmas/christmas.jpg" alt="christmas"></p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> fest </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2016/12/25/hello-world/"/>
+      <url>/2016/12/25/hello-world/</url>
+      
+        <content type="html"><![CDATA[<blockquote><p>那时，天下人的口音，言语，都是一样。</p><p>他们往东边迁移的时候，在示拿地遇见一片平原，就住在那里。</p><p>他们彼此商量说，来吧，我们要作砖，把砖烧透了。他们就拿砖当石头，又拿石漆当灰泥。</p><p>他们说，来吧，我们要建造一座城和一座塔，塔顶通天，为要传扬我们的名，免得我们分散在全地上。</p></blockquote>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> blog </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
 </search>
